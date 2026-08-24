@@ -1,0 +1,69 @@
+﻿station_id,station_name,line_id,number_of_delays,avg_delay_duration_min,total_delay_duration_min,most_common_event_type,most_common_reason
+58,Heliopolis Square,Line3,15,71.5,1072,Train Breakdown,signal_failure
+79,Attaba,Transfer_Line2/Line3,15,62.1,932,Signal Problem,scheduled_maintenance
+41,Opera,Line2,15,38.3,575,Delay,technical_fault
+18,Saad Zaghloul,Line1,15,76.4,1146,Track Issue,power_issue
+36,Giza,Line2,14,27.4,383,Train Breakdown,power_issue
+11,El Maadi,Line1,14,25.4,356,Train Breakdown,power_issue
+29,Ain Shams,Line1,14,113.1,1584,Track Issue,technical_fault
+64,Abbassia,Line3,13,91.2,1186,Track Issue,power_issue
+50,Adly Mansour,Line3,12,40.1,481,Delay,mechanical_failure
+37,Faisal,Line2,12,44.9,539,Train Breakdown,technical_fault
+3,Helwan University,Line1,12,43.8,525,Signal Problem,track_maintenance
+80,Nasser,Transfer_Line1/Line3,11,67.5,743,Signal Problem,power_issue
+38,Cairo University,Line2,11,58.1,639,Signal Problem,signal_failure
+68,Maspero,Line3,11,53.0,583,Delay,weather_related
+49,Shubra El Kheima,Line2,10,70.1,701,Track Issue,technical_fault
+78,Al Shohadaa,Transfer_Line1/Line2,10,43.7,437,Track Issue,track_maintenance
+17,Sayeda Zeinab,Line1,10,57.5,575,Delay,power_issue
+20,Ghamra,Line1,9,75.6,680,Signal Problem,power_issue
+33,El Mounib,Line2,9,57.4,517,Train Breakdown,overcrowding
+21,El Demerdash,Line1,9,58.8,529,Track Issue,technical_fault
+70,Kit Kat,Line3,9,51.3,462,Delay,track_maintenance
+44,Road El Farag,Line2,9,47.2,425,Delay,technical_fault
+72,Imbaba,Line3,8,66.1,529,Signal Problem,overcrowding
+16,El Malek El Saleh,Line1,8,57.6,461,Delay,scheduled_maintenance
+55,El Nozha,Line3,8,41.4,331,Signal Problem,mechanical_failure
+77,Sadat,Transfer_Line1/Line2,8,73.0,584,Delay,track_maintenance
+62,Stadium,Line3,8,30.4,243,Signal Problem,signal_failure
+67,Bab El Shaaria,Line3,7,32.4,227,Delay,scheduled_maintenance
+42,Mohamed Naguib,Line2,6,24.0,144,Train Breakdown,power_issue
+22,Manshiet El Sadr,Line1,5,57.4,287,Train Breakdown,weather_related
+40,Dokki,Line2,5,161.4,807,Train Breakdown,weather_related
+27,Helmeyet El Zaitoun,Line1,4,31.8,127,Track Issue,signal_failure
+76,Rod El Farag Corridor,Line3,3,46.7,140,Delay,mechanical_failure
+74,El Qawmia,Line3,3,105.7,317,Track Issue,overcrowding
+69,Safaa Hegazy,Line3,3,166.3,499,Track Issue,power_issue
+14,El Zahra,Line1,3,90.3,271,Track Issue,power_issue
+48,Koliet El Zeraa,Line2,3,34.3,103,Signal Problem,weather_related
+45,St. Teresa,Line2,3,21.3,64,Train Breakdown,overcrowding
+12,Hadayek El Maadi,Line1,2,14.0,28,Delay,technical_fault
+7,Tura El Asmant,Line1,2,141.5,283,Track Issue,overcrowding
+71,Sudan,Line3,2,55.0,110,Signal Problem,mechanical_failure
+52,Omar Ibn El Khattab,Line3,2,16.0,32,Delay,technical_fault
+75,Ring Road,Line3,2,38.5,77,Track Issue,mechanical_failure
+66,El Geish,Line3,2,54.5,109,Track Issue,mechanical_failure
+23,Kobri El Qobba,Line1,2,155.5,311,Signal Problem,overcrowding
+9,Tura El Balad,Line1,2,40.5,81,Track Issue,track_maintenance
+32,New El Marg,Line1,2,29.0,58,Track Issue,track_maintenance
+15,Mar Girgis,Line1,2,83.0,166,Track Issue,mechanical_failure
+35,Omm El Masryeen,Line2,2,22.5,45,Signal Problem,power_issue
+5,Hadayek Helwan,Line1,1,12.0,12,Signal Problem,weather_related
+1,Helwan,Line1,1,48.0,48,Track Issue,mechanical_failure
+4,Wadi Hof,Line1,1,43.0,43,Delay,mechanical_failure
+39,El Bohoos,Line2,1,200.0,200,Track Issue,weather_related
+25,Saray El Qobba,Line1,1,76.0,76,Track Issue,overcrowding
+28,El Matareyya,Line1,1,29.0,29,Signal Problem,mechanical_failure
+24,Hammamat El Qobba,Line1,1,53.0,53,Track Issue,power_issue
+26,Hadayek El Zaitoun,Line1,1,50.0,50,Delay,mechanical_failure
+30,Ezbet El Nakhl,Line1,1,12.0,12,Delay,mechanical_failure
+13,Dar El Salam,Line1,1,108.0,108,Track Issue,signal_failure
+19,Orabi,Line1,1,5.0,5,Train Breakdown,mechanical_failure
+6,El Maasara,Line1,1,73.0,73,Track Issue,technical_fault
+59,Haroun,Line3,1,49.0,49,Signal Problem,scheduled_maintenance
+51,El Haykestep,Line3,1,28.0,28,Train Breakdown,scheduled_maintenance
+46,Khalafawy,Line2,1,45.0,45,Track Issue,scheduled_maintenance
+43,Masarra,Line2,1,91.0,91,Signal Problem,overcrowding
+56,Nadi El Shams,Line3,1,129.0,129,Track Issue,overcrowding
+65,Abdou Pasha,Line3,1,84.0,84,Track Issue,power_issue
+73,El Bohy,Line3,1,111.0,111,Track Issue,scheduled_maintenance

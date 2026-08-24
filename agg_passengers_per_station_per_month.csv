@@ -1,0 +1,961 @@
+﻿station_name,line_id,month,total_passengers
+Nasser,Transfer_Line1/Line3,1,58519
+Dokki,Line2,1,56518
+Imbaba,Line3,1,56486
+El Mounib,Line2,1,56460
+Stadium,Line3,1,56259
+El Malek El Saleh,Line1,1,56003
+Heliopolis Square,Line3,1,55916
+Giza,Line2,1,55612
+Sayeda Zeinab,Line1,1,55192
+Bab El Shaaria,Line3,1,55113
+Helwan University,Line1,1,55001
+Kit Kat,Line3,1,54902
+Abbassia,Line3,1,54812
+El Demerdash,Line1,1,54547
+Maspero,Line3,1,54360
+Adly Mansour,Line3,1,54215
+Faisal,Line2,1,53696
+Attaba,Transfer_Line2/Line3,1,53632
+Saad Zaghloul,Line1,1,53345
+Cairo University,Line2,1,52723
+Opera,Line2,1,52625
+Shubra El Kheima,Line2,1,52552
+Ain Shams,Line1,1,52005
+El Nozha,Line3,1,51962
+Road El Farag,Line2,1,51951
+Sadat,Transfer_Line1/Line2,1,51294
+El Maadi,Line1,1,50967
+Al Shohadaa,Transfer_Line1/Line2,1,50843
+Ghamra,Line1,1,50444
+St. Teresa,Line2,1,5217
+Hammamat El Qobba,Line1,1,5097
+Rod El Farag Corridor,Line3,1,5016
+Hesham Barakat,Line3,1,4961
+Hadayek El Maadi,Line1,1,4928
+Omar Ibn El Khattab,Line3,1,4920
+Kozzika,Line1,1,4918
+Helmeyet El Zaitoun,Line1,1,4873
+Wadi Hof,Line1,1,4871
+Koleyet El Banat,Line3,1,4853
+Safaa Hegazy,Line3,1,4809
+Saray El Qobba,Line1,1,4809
+Fair Zone,Line3,1,4806
+Manshiet El Sadr,Line1,1,4791
+Haroun,Line3,1,4751
+Masarra,Line2,1,4746
+Qobaa,Line3,1,4671
+Ain Helwan,Line1,1,4665
+Ezbet El Nakhl,Line1,1,4664
+Helwan,Line1,1,4638
+Sakiat Mekky,Line2,1,4611
+Tura El Balad,Line1,1,4579
+Khalafawy,Line2,1,4577
+Mar Girgis,Line1,1,4549
+Al Ahram,Line3,1,4526
+El Zahra,Line1,1,4495
+New El Marg,Line1,1,4481
+Tura El Asmant,Line1,1,4470
+Mezallat,Line2,1,4298
+Hadayek Helwan,Line1,1,4285
+Kobri El Qobba,Line1,1,4272
+El Qawmia,Line3,1,4222
+El Matareyya,Line1,1,4205
+El Haykestep,Line3,1,4199
+El Bohoos,Line2,1,4171
+Abdou Pasha,Line3,1,4160
+El Marg,Line1,1,4155
+Mohamed Naguib,Line2,1,4151
+Ring Road,Line3,1,4142
+Hadayek El Zaitoun,Line1,1,4032
+Dar El Salam,Line1,1,3964
+Nadi El Shams,Line3,1,3961
+El Maasara,Line1,1,3940
+Orabi,Line1,1,3935
+El Bohy,Line3,1,3908
+Alf Maskan,Line3,1,3870
+Omm El Masryeen,Line2,1,3813
+Sudan,Line3,1,3803
+El Geish,Line3,1,3741
+Koliet El Zeraa,Line2,1,3729
+Sakanat El Maadi,Line1,1,3586
+El Demerdash,Line1,2,60373
+Cairo University,Line2,2,58885
+Opera,Line2,2,58753
+Maspero,Line3,2,58272
+Stadium,Line3,2,58108
+El Mounib,Line2,2,58071
+Al Shohadaa,Transfer_Line1/Line2,2,57515
+Bab El Shaaria,Line3,2,57392
+Dokki,Line2,2,57319
+Sadat,Transfer_Line1/Line2,2,57107
+Kit Kat,Line3,2,57017
+Ain Shams,Line1,2,56791
+Shubra El Kheima,Line2,2,56737
+El Nozha,Line3,2,56688
+Abbassia,Line3,2,56415
+Nasser,Transfer_Line1/Line3,2,56313
+Giza,Line2,2,56023
+Attaba,Transfer_Line2/Line3,2,55815
+Saad Zaghloul,Line1,2,55803
+Faisal,Line2,2,55790
+Helwan University,Line1,2,55400
+Adly Mansour,Line3,2,55343
+El Maadi,Line1,2,55337
+Imbaba,Line3,2,55303
+Road El Farag,Line2,2,54921
+Ghamra,Line1,2,54298
+Heliopolis Square,Line3,2,54055
+Sayeda Zeinab,Line1,2,53440
+El Malek El Saleh,Line1,2,52711
+Orabi,Line1,2,5796
+Ring Road,Line3,2,5658
+Abdou Pasha,Line3,2,5416
+Hadayek Helwan,Line1,2,5411
+Alf Maskan,Line3,2,5346
+Masarra,Line2,2,5300
+Khalafawy,Line2,2,5288
+Sakiat Mekky,Line2,2,5182
+Kobri El Qobba,Line1,2,5163
+Kozzika,Line1,2,5156
+Hesham Barakat,Line3,2,5147
+El Maasara,Line1,2,5108
+Nadi El Shams,Line3,2,5031
+El Geish,Line3,2,5002
+El Bohy,Line3,2,4996
+Dar El Salam,Line1,2,4921
+Koleyet El Banat,Line3,2,4872
+Mar Girgis,Line1,2,4854
+Omar Ibn El Khattab,Line3,2,4816
+Tura El Asmant,Line1,2,4808
+Omm El Masryeen,Line2,2,4803
+Qobaa,Line3,2,4795
+Wadi Hof,Line1,2,4778
+El Qawmia,Line3,2,4764
+Hadayek El Maadi,Line1,2,4750
+Tura El Balad,Line1,2,4747
+Koliet El Zeraa,Line2,2,4737
+Mohamed Naguib,Line2,2,4737
+El Haykestep,Line3,2,4727
+Mezallat,Line2,2,4710
+Helwan,Line1,2,4665
+Al Ahram,Line3,2,4597
+Manshiet El Sadr,Line1,2,4552
+St. Teresa,Line2,2,4526
+Ain Helwan,Line1,2,4494
+Hadayek El Zaitoun,Line1,2,4434
+Rod El Farag Corridor,Line3,2,4348
+Ezbet El Nakhl,Line1,2,4345
+El Marg,Line1,2,4336
+Hammamat El Qobba,Line1,2,4282
+El Zahra,Line1,2,4259
+Saray El Qobba,Line1,2,4249
+Safaa Hegazy,Line3,2,4225
+El Matareyya,Line1,2,4199
+Sakanat El Maadi,Line1,2,4174
+New El Marg,Line1,2,3975
+Sudan,Line3,2,3935
+Haroun,Line3,2,3820
+Helmeyet El Zaitoun,Line1,2,3759
+El Bohoos,Line2,2,3530
+Fair Zone,Line3,2,3333
+Faisal,Line2,3,63478
+El Nozha,Line3,3,63345
+Attaba,Transfer_Line2/Line3,3,63091
+Maspero,Line3,3,63087
+Kit Kat,Line3,3,62788
+El Maadi,Line1,3,62595
+Ain Shams,Line1,3,62552
+Stadium,Line3,3,62338
+Helwan University,Line1,3,62276
+Abbassia,Line3,3,61807
+El Demerdash,Line1,3,61800
+Opera,Line2,3,61277
+Giza,Line2,3,61184
+Bab El Shaaria,Line3,3,61095
+Adly Mansour,Line3,3,60681
+Imbaba,Line3,3,60473
+Cairo University,Line2,3,60419
+El Malek El Saleh,Line1,3,60365
+Dokki,Line2,3,60194
+Sayeda Zeinab,Line1,3,60022
+Ghamra,Line1,3,59958
+Sadat,Transfer_Line1/Line2,3,59580
+El Mounib,Line2,3,59530
+Saad Zaghloul,Line1,3,59509
+Road El Farag,Line2,3,59233
+Nasser,Transfer_Line1/Line3,3,59171
+Heliopolis Square,Line3,3,58068
+Al Shohadaa,Transfer_Line1/Line2,3,57795
+Shubra El Kheima,Line2,3,57786
+Sudan,Line3,3,5984
+Tura El Asmant,Line1,3,5769
+Abdou Pasha,Line3,3,5715
+Orabi,Line1,3,5709
+El Qawmia,Line3,3,5623
+Koleyet El Banat,Line3,3,5581
+Sakanat El Maadi,Line1,3,5577
+Omm El Masryeen,Line2,3,5540
+El Geish,Line3,3,5387
+Mohamed Naguib,Line2,3,5360
+St. Teresa,Line2,3,5356
+El Marg,Line1,3,5338
+Sakiat Mekky,Line2,3,5274
+Rod El Farag Corridor,Line3,3,5189
+El Bohy,Line3,3,5180
+New El Marg,Line1,3,5162
+Kobri El Qobba,Line1,3,5146
+El Maasara,Line1,3,5130
+Alf Maskan,Line3,3,5117
+Wadi Hof,Line1,3,5093
+Kozzika,Line1,3,5026
+Nadi El Shams,Line3,3,5008
+Qobaa,Line3,3,5007
+Helmeyet El Zaitoun,Line1,3,4996
+Helwan,Line1,3,4979
+Masarra,Line2,3,4967
+Ring Road,Line3,3,4949
+El Bohoos,Line2,3,4941
+Hesham Barakat,Line3,3,4940
+Hadayek El Maadi,Line1,3,4936
+Ezbet El Nakhl,Line1,3,4934
+El Zahra,Line1,3,4892
+Hammamat El Qobba,Line1,3,4875
+Manshiet El Sadr,Line1,3,4857
+Haroun,Line3,3,4816
+El Matareyya,Line1,3,4755
+Safaa Hegazy,Line3,3,4643
+Mar Girgis,Line1,3,4597
+Tura El Balad,Line1,3,4525
+Ain Helwan,Line1,3,4512
+Omar Ibn El Khattab,Line3,3,4480
+Hadayek Helwan,Line1,3,4401
+Hadayek El Zaitoun,Line1,3,4399
+Koliet El Zeraa,Line2,3,4376
+Saray El Qobba,Line1,3,4332
+Al Ahram,Line3,3,4302
+Mezallat,Line2,3,4299
+Dar El Salam,Line1,3,4282
+Fair Zone,Line3,3,4228
+El Haykestep,Line3,3,4176
+Khalafawy,Line2,3,4118
+Road El Farag,Line2,4,59497
+El Mounib,Line2,4,57799
+Opera,Line2,4,57563
+Bab El Shaaria,Line3,4,57239
+Abbassia,Line3,4,57130
+Dokki,Line2,4,56722
+Cairo University,Line2,4,55966
+Imbaba,Line3,4,55720
+El Maadi,Line1,4,55241
+Helwan University,Line1,4,55127
+El Malek El Saleh,Line1,4,55043
+Ain Shams,Line1,4,54713
+Saad Zaghloul,Line1,4,54422
+Kit Kat,Line3,4,54339
+El Nozha,Line3,4,54330
+Sadat,Transfer_Line1/Line2,4,54105
+Sayeda Zeinab,Line1,4,54052
+Faisal,Line2,4,53924
+Attaba,Transfer_Line2/Line3,4,53876
+Giza,Line2,4,53771
+Al Shohadaa,Transfer_Line1/Line2,4,53539
+Adly Mansour,Line3,4,53424
+Heliopolis Square,Line3,4,53419
+Shubra El Kheima,Line2,4,53092
+Maspero,Line3,4,52779
+El Demerdash,Line1,4,52722
+Stadium,Line3,4,52061
+Nasser,Transfer_Line1/Line3,4,51891
+Ghamra,Line1,4,50564
+Hammamat El Qobba,Line1,4,5601
+Ain Helwan,Line1,4,5407
+Ring Road,Line3,4,5252
+Rod El Farag Corridor,Line3,4,5200
+Koliet El Zeraa,Line2,4,5189
+Tura El Asmant,Line1,4,5170
+El Qawmia,Line3,4,5081
+Manshiet El Sadr,Line1,4,5081
+Hadayek El Maadi,Line1,4,5030
+Al Ahram,Line3,4,5006
+Khalafawy,Line2,4,4975
+Sudan,Line3,4,4818
+Wadi Hof,Line1,4,4809
+El Marg,Line1,4,4808
+Saray El Qobba,Line1,4,4804
+Mar Girgis,Line1,4,4721
+El Bohoos,Line2,4,4704
+Fair Zone,Line3,4,4577
+Kozzika,Line1,4,4543
+Sakanat El Maadi,Line1,4,4540
+Haroun,Line3,4,4532
+Helwan,Line1,4,4526
+El Bohy,Line3,4,4503
+Hadayek El Zaitoun,Line1,4,4495
+New El Marg,Line1,4,4491
+El Matareyya,Line1,4,4455
+Nadi El Shams,Line3,4,4390
+Omar Ibn El Khattab,Line3,4,4384
+Abdou Pasha,Line3,4,4347
+Orabi,Line1,4,4324
+El Maasara,Line1,4,4292
+Mohamed Naguib,Line2,4,4289
+Koleyet El Banat,Line3,4,4263
+Omm El Masryeen,Line2,4,4217
+St. Teresa,Line2,4,4153
+Ezbet El Nakhl,Line1,4,4143
+Safaa Hegazy,Line3,4,4109
+El Geish,Line3,4,4087
+Hesham Barakat,Line3,4,4040
+El Zahra,Line1,4,4025
+Sakiat Mekky,Line2,4,3988
+Kobri El Qobba,Line1,4,3893
+Hadayek Helwan,Line1,4,3813
+Masarra,Line2,4,3702
+El Haykestep,Line3,4,3685
+Dar El Salam,Line1,4,3648
+Mezallat,Line2,4,3600
+Tura El Balad,Line1,4,3579
+Qobaa,Line3,4,3551
+Helmeyet El Zaitoun,Line1,4,3336
+Alf Maskan,Line3,4,3277
+Sadat,Transfer_Line1/Line2,5,62147
+Kit Kat,Line3,5,61839
+Abbassia,Line3,5,61328
+Road El Farag,Line2,5,61252
+Imbaba,Line3,5,60932
+El Mounib,Line2,5,60851
+Dokki,Line2,5,60737
+El Nozha,Line3,5,60555
+Faisal,Line2,5,60175
+Adly Mansour,Line3,5,60028
+El Demerdash,Line1,5,59951
+Saad Zaghloul,Line1,5,59936
+Ghamra,Line1,5,59894
+Bab El Shaaria,Line3,5,59402
+Heliopolis Square,Line3,5,59345
+Shubra El Kheima,Line2,5,59069
+Attaba,Transfer_Line2/Line3,5,58979
+Maspero,Line3,5,58714
+Helwan University,Line1,5,58666
+Al Shohadaa,Transfer_Line1/Line2,5,58508
+Giza,Line2,5,57769
+Cairo University,Line2,5,56882
+Ain Shams,Line1,5,56640
+El Malek El Saleh,Line1,5,56409
+Opera,Line2,5,56127
+Nasser,Transfer_Line1/Line3,5,55987
+El Maadi,Line1,5,55824
+Sayeda Zeinab,Line1,5,55293
+Stadium,Line3,5,55083
+Dar El Salam,Line1,5,6279
+Omar Ibn El Khattab,Line3,5,6003
+Saray El Qobba,Line1,5,5929
+Ain Helwan,Line1,5,5842
+El Marg,Line1,5,5616
+Hadayek El Zaitoun,Line1,5,5535
+Tura El Asmant,Line1,5,5455
+Kobri El Qobba,Line1,5,5453
+New El Marg,Line1,5,5447
+Manshiet El Sadr,Line1,5,5424
+Mohamed Naguib,Line2,5,5410
+Fair Zone,Line3,5,5389
+El Qawmia,Line3,5,5334
+Mezallat,Line2,5,5298
+Sudan,Line3,5,5277
+Hesham Barakat,Line3,5,5168
+El Zahra,Line1,5,5134
+Al Ahram,Line3,5,5124
+Koleyet El Banat,Line3,5,5097
+El Bohoos,Line2,5,5088
+El Bohy,Line3,5,5078
+Kozzika,Line1,5,5074
+El Maasara,Line1,5,5041
+Sakanat El Maadi,Line1,5,5026
+Hadayek Helwan,Line1,5,4991
+Ring Road,Line3,5,4971
+Qobaa,Line3,5,4927
+St. Teresa,Line2,5,4903
+Nadi El Shams,Line3,5,4879
+Mar Girgis,Line1,5,4868
+Helwan,Line1,5,4858
+Koliet El Zeraa,Line2,5,4771
+El Haykestep,Line3,5,4756
+Helmeyet El Zaitoun,Line1,5,4694
+Abdou Pasha,Line3,5,4674
+Haroun,Line3,5,4660
+El Matareyya,Line1,5,4595
+Safaa Hegazy,Line3,5,4542
+Rod El Farag Corridor,Line3,5,4500
+Omm El Masryeen,Line2,5,4497
+Orabi,Line1,5,4484
+Sakiat Mekky,Line2,5,4431
+El Geish,Line3,5,4425
+Tura El Balad,Line1,5,4395
+Wadi Hof,Line1,5,4394
+Khalafawy,Line2,5,4284
+Alf Maskan,Line3,5,4151
+Ezbet El Nakhl,Line1,5,4084
+Hammamat El Qobba,Line1,5,4043
+Hadayek El Maadi,Line1,5,3980
+Masarra,Line2,5,3443
+Helwan University,Line1,6,49092
+Stadium,Line3,6,47859
+Imbaba,Line3,6,47727
+Kit Kat,Line3,6,47658
+Shubra El Kheima,Line2,6,47538
+Attaba,Transfer_Line2/Line3,6,47525
+Opera,Line2,6,47264
+Abbassia,Line3,6,47010
+Al Shohadaa,Transfer_Line1/Line2,6,46646
+Bab El Shaaria,Line3,6,46607
+Heliopolis Square,Line3,6,46588
+El Mounib,Line2,6,46470
+Nasser,Transfer_Line1/Line3,6,45895
+Saad Zaghloul,Line1,6,45618
+Adly Mansour,Line3,6,45562
+Faisal,Line2,6,45561
+Dokki,Line2,6,45543
+El Demerdash,Line1,6,45262
+Ain Shams,Line1,6,45190
+Sayeda Zeinab,Line1,6,45047
+El Malek El Saleh,Line1,6,45018
+Cairo University,Line2,6,44980
+Road El Farag,Line2,6,44863
+El Maadi,Line1,6,44825
+Giza,Line2,6,44366
+Maspero,Line3,6,43984
+Ghamra,Line1,6,43948
+Sadat,Transfer_Line1/Line2,6,43684
+El Nozha,Line3,6,43207
+El Bohy,Line3,6,5199
+Orabi,Line1,6,4926
+El Haykestep,Line3,6,4761
+Haroun,Line3,6,4689
+Safaa Hegazy,Line3,6,4672
+Sakiat Mekky,Line2,6,4568
+Al Ahram,Line3,6,4539
+St. Teresa,Line2,6,4524
+Wadi Hof,Line1,6,4490
+Tura El Balad,Line1,6,4434
+El Bohoos,Line2,6,4408
+Kozzika,Line1,6,4341
+Hadayek El Maadi,Line1,6,4266
+Hammamat El Qobba,Line1,6,4245
+El Geish,Line3,6,4221
+Hesham Barakat,Line3,6,4112
+Koleyet El Banat,Line3,6,4062
+Helmeyet El Zaitoun,Line1,6,4035
+Hadayek Helwan,Line1,6,4022
+El Zahra,Line1,6,4010
+El Marg,Line1,6,3918
+Ain Helwan,Line1,6,3851
+Helwan,Line1,6,3832
+Alf Maskan,Line3,6,3805
+New El Marg,Line1,6,3781
+Omm El Masryeen,Line2,6,3761
+Khalafawy,Line2,6,3740
+Ezbet El Nakhl,Line1,6,3733
+Manshiet El Sadr,Line1,6,3733
+Qobaa,Line3,6,3691
+Omar Ibn El Khattab,Line3,6,3619
+Hadayek El Zaitoun,Line1,6,3593
+Koliet El Zeraa,Line2,6,3573
+Saray El Qobba,Line1,6,3572
+Abdou Pasha,Line3,6,3522
+Nadi El Shams,Line3,6,3516
+Rod El Farag Corridor,Line3,6,3509
+Mar Girgis,Line1,6,3491
+Dar El Salam,Line1,6,3436
+Kobri El Qobba,Line1,6,3433
+Mezallat,Line2,6,3393
+Fair Zone,Line3,6,3381
+El Maasara,Line1,6,3333
+Tura El Asmant,Line1,6,3276
+Ring Road,Line3,6,3229
+Sakanat El Maadi,Line1,6,3221
+Masarra,Line2,6,3156
+Mohamed Naguib,Line2,6,3088
+El Matareyya,Line1,6,3005
+El Qawmia,Line3,6,2979
+Sudan,Line3,6,2802
+Attaba,Transfer_Line2/Line3,7,53122
+Road El Farag,Line2,7,52972
+Dokki,Line2,7,52430
+Sayeda Zeinab,Line1,7,52366
+Ghamra,Line1,7,52291
+Heliopolis Square,Line3,7,52102
+Kit Kat,Line3,7,52061
+El Nozha,Line3,7,51371
+El Maadi,Line1,7,51321
+Saad Zaghloul,Line1,7,51204
+Helwan University,Line1,7,51166
+El Mounib,Line2,7,51099
+Cairo University,Line2,7,50900
+Ain Shams,Line1,7,50623
+Bab El Shaaria,Line3,7,50342
+Al Shohadaa,Transfer_Line1/Line2,7,50283
+Abbassia,Line3,7,50274
+Nasser,Transfer_Line1/Line3,7,50049
+Stadium,Line3,7,50047
+Faisal,Line2,7,49841
+El Malek El Saleh,Line1,7,49797
+Sadat,Transfer_Line1/Line2,7,49757
+Opera,Line2,7,49524
+Maspero,Line3,7,49277
+Adly Mansour,Line3,7,48836
+Imbaba,Line3,7,48819
+Giza,Line2,7,48041
+Shubra El Kheima,Line2,7,47280
+El Demerdash,Line1,7,46750
+El Bohoos,Line2,7,5692
+Koleyet El Banat,Line3,7,5468
+Koliet El Zeraa,Line2,7,5441
+Tura El Asmant,Line1,7,5275
+El Matareyya,Line1,7,5181
+Sakiat Mekky,Line2,7,5086
+Kobri El Qobba,Line1,7,5047
+Omar Ibn El Khattab,Line3,7,5000
+Nadi El Shams,Line3,7,4841
+Al Ahram,Line3,7,4815
+Orabi,Line1,7,4812
+El Qawmia,Line3,7,4724
+Ain Helwan,Line1,7,4637
+El Haykestep,Line3,7,4597
+El Zahra,Line1,7,4573
+Hammamat El Qobba,Line1,7,4544
+Alf Maskan,Line3,7,4523
+New El Marg,Line1,7,4504
+Haroun,Line3,7,4414
+Tura El Balad,Line1,7,4404
+Sakanat El Maadi,Line1,7,4382
+Saray El Qobba,Line1,7,4364
+Masarra,Line2,7,4342
+Ring Road,Line3,7,4328
+Rod El Farag Corridor,Line3,7,4309
+St. Teresa,Line2,7,4282
+Hesham Barakat,Line3,7,4251
+Manshiet El Sadr,Line1,7,4147
+Ezbet El Nakhl,Line1,7,4127
+Mohamed Naguib,Line2,7,4085
+Mar Girgis,Line1,7,4021
+Abdou Pasha,Line3,7,3942
+Wadi Hof,Line1,7,3925
+Kozzika,Line1,7,3922
+Hadayek Helwan,Line1,7,3920
+Sudan,Line3,7,3907
+Hadayek El Zaitoun,Line1,7,3867
+El Maasara,Line1,7,3856
+Safaa Hegazy,Line3,7,3835
+Fair Zone,Line3,7,3791
+Helmeyet El Zaitoun,Line1,7,3739
+El Geish,Line3,7,3718
+Helwan,Line1,7,3695
+Dar El Salam,Line1,7,3690
+Qobaa,Line3,7,3688
+El Marg,Line1,7,3687
+El Bohy,Line3,7,3686
+Hadayek El Maadi,Line1,7,3670
+Omm El Masryeen,Line2,7,3648
+Khalafawy,Line2,7,3437
+Mezallat,Line2,7,2959
+El Mounib,Line2,8,54779
+Abbassia,Line3,8,54768
+Sadat,Transfer_Line1/Line2,8,54741
+Giza,Line2,8,54581
+Bab El Shaaria,Line3,8,54159
+Adly Mansour,Line3,8,53928
+Imbaba,Line3,8,53861
+Nasser,Transfer_Line1/Line3,8,53729
+Kit Kat,Line3,8,53630
+Saad Zaghloul,Line1,8,53482
+El Malek El Saleh,Line1,8,52964
+Attaba,Transfer_Line2/Line3,8,52813
+Shubra El Kheima,Line2,8,52697
+Ghamra,Line1,8,52627
+Ain Shams,Line1,8,52574
+Maspero,Line3,8,52550
+Stadium,Line3,8,51979
+Helwan University,Line1,8,51829
+Dokki,Line2,8,51810
+Heliopolis Square,Line3,8,51645
+Al Shohadaa,Transfer_Line1/Line2,8,51571
+El Nozha,Line3,8,51405
+El Demerdash,Line1,8,51121
+Faisal,Line2,8,50897
+Road El Farag,Line2,8,50888
+Opera,Line2,8,50427
+Sayeda Zeinab,Line1,8,50259
+Cairo University,Line2,8,50031
+El Maadi,Line1,8,49478
+St. Teresa,Line2,8,5645
+El Bohoos,Line2,8,5417
+Alf Maskan,Line3,8,5378
+Sudan,Line3,8,5321
+Hammamat El Qobba,Line1,8,5281
+Rod El Farag Corridor,Line3,8,5210
+Mezallat,Line2,8,4972
+El Bohy,Line3,8,4938
+Omm El Masryeen,Line2,8,4938
+El Qawmia,Line3,8,4931
+Koliet El Zeraa,Line2,8,4888
+Orabi,Line1,8,4857
+Hesham Barakat,Line3,8,4816
+Hadayek Helwan,Line1,8,4771
+Kozzika,Line1,8,4752
+Safaa Hegazy,Line3,8,4731
+Ain Helwan,Line1,8,4723
+Ezbet El Nakhl,Line1,8,4659
+Sakanat El Maadi,Line1,8,4633
+Ring Road,Line3,8,4616
+El Geish,Line3,8,4614
+Mohamed Naguib,Line2,8,4604
+Kobri El Qobba,Line1,8,4601
+Sakiat Mekky,Line2,8,4523
+Nadi El Shams,Line3,8,4522
+Fair Zone,Line3,8,4505
+New El Marg,Line1,8,4478
+Manshiet El Sadr,Line1,8,4466
+El Maasara,Line1,8,4461
+Helmeyet El Zaitoun,Line1,8,4427
+Masarra,Line2,8,4422
+Haroun,Line3,8,4364
+Tura El Asmant,Line1,8,4347
+Abdou Pasha,Line3,8,4335
+Hadayek El Maadi,Line1,8,4250
+El Zahra,Line1,8,4225
+Omar Ibn El Khattab,Line3,8,4220
+Qobaa,Line3,8,4141
+Wadi Hof,Line1,8,4129
+Helwan,Line1,8,4067
+Mar Girgis,Line1,8,3926
+El Matareyya,Line1,8,3852
+Saray El Qobba,Line1,8,3837
+Khalafawy,Line2,8,3813
+El Haykestep,Line3,8,3802
+Al Ahram,Line3,8,3770
+Koleyet El Banat,Line3,8,3708
+Dar El Salam,Line1,8,3698
+Hadayek El Zaitoun,Line1,8,3445
+El Marg,Line1,8,3442
+Tura El Balad,Line1,8,3429
+Imbaba,Line3,9,57786
+Helwan University,Line1,9,56926
+Saad Zaghloul,Line1,9,56870
+Shubra El Kheima,Line2,9,56697
+Al Shohadaa,Transfer_Line1/Line2,9,56464
+Abbassia,Line3,9,56387
+El Maadi,Line1,9,56386
+Adly Mansour,Line3,9,56263
+Maspero,Line3,9,55890
+Nasser,Transfer_Line1/Line3,9,55547
+Sadat,Transfer_Line1/Line2,9,55524
+Heliopolis Square,Line3,9,55134
+Ghamra,Line1,9,55122
+El Mounib,Line2,9,55121
+Sayeda Zeinab,Line1,9,55076
+El Malek El Saleh,Line1,9,55052
+Stadium,Line3,9,54923
+Cairo University,Line2,9,54887
+Road El Farag,Line2,9,54813
+El Demerdash,Line1,9,54705
+Opera,Line2,9,54633
+Dokki,Line2,9,54340
+Faisal,Line2,9,54338
+Bab El Shaaria,Line3,9,54300
+Attaba,Transfer_Line2/Line3,9,54248
+El Nozha,Line3,9,54025
+Kit Kat,Line3,9,53380
+Ain Shams,Line1,9,52895
+Giza,Line2,9,52603
+Sudan,Line3,9,5643
+Kozzika,Line1,9,5286
+El Bohoos,Line2,9,5163
+Mar Girgis,Line1,9,5099
+Saray El Qobba,Line1,9,5098
+El Haykestep,Line3,9,5081
+El Qawmia,Line3,9,4959
+Orabi,Line1,9,4911
+Omm El Masryeen,Line2,9,4881
+Safaa Hegazy,Line3,9,4863
+Kobri El Qobba,Line1,9,4862
+Mohamed Naguib,Line2,9,4819
+El Geish,Line3,9,4800
+Mezallat,Line2,9,4782
+Dar El Salam,Line1,9,4763
+Hadayek Helwan,Line1,9,4736
+El Matareyya,Line1,9,4735
+Masarra,Line2,9,4691
+Qobaa,Line3,9,4680
+Alf Maskan,Line3,9,4673
+Tura El Balad,Line1,9,4670
+Koleyet El Banat,Line3,9,4642
+Abdou Pasha,Line3,9,4615
+St. Teresa,Line2,9,4602
+Helmeyet El Zaitoun,Line1,9,4592
+Rod El Farag Corridor,Line3,9,4559
+New El Marg,Line1,9,4507
+Helwan,Line1,9,4497
+Ring Road,Line3,9,4457
+Hesham Barakat,Line3,9,4408
+Sakiat Mekky,Line2,9,4368
+Manshiet El Sadr,Line1,9,4351
+Omar Ibn El Khattab,Line3,9,4338
+Hammamat El Qobba,Line1,9,4323
+Fair Zone,Line3,9,4267
+Khalafawy,Line2,9,4262
+El Maasara,Line1,9,4252
+Koliet El Zeraa,Line2,9,4252
+Sakanat El Maadi,Line1,9,4185
+Ezbet El Nakhl,Line1,9,4089
+Hadayek El Maadi,Line1,9,4072
+El Bohy,Line3,9,4052
+Wadi Hof,Line1,9,4014
+El Marg,Line1,9,3966
+El Zahra,Line1,9,3958
+Al Ahram,Line3,9,3911
+Nadi El Shams,Line3,9,3819
+Tura El Asmant,Line1,9,3786
+Haroun,Line3,9,3696
+Ain Helwan,Line1,9,3685
+Hadayek El Zaitoun,Line1,9,3620
+Ain Shams,Line1,10,67292
+Bab El Shaaria,Line3,10,66311
+Helwan University,Line1,10,65968
+Attaba,Transfer_Line2/Line3,10,65467
+Cairo University,Line2,10,65182
+Road El Farag,Line2,10,65057
+El Mounib,Line2,10,64956
+Imbaba,Line3,10,64687
+Heliopolis Square,Line3,10,64390
+Giza,Line2,10,64258
+Faisal,Line2,10,64243
+Kit Kat,Line3,10,63716
+Ghamra,Line1,10,63605
+Shubra El Kheima,Line2,10,63581
+El Nozha,Line3,10,63391
+Opera,Line2,10,63318
+Sayeda Zeinab,Line1,10,62658
+El Maadi,Line1,10,62293
+Maspero,Line3,10,62277
+Dokki,Line2,10,62204
+Adly Mansour,Line3,10,62175
+El Demerdash,Line1,10,62085
+El Malek El Saleh,Line1,10,61773
+Al Shohadaa,Transfer_Line1/Line2,10,61612
+Nasser,Transfer_Line1/Line3,10,61176
+Stadium,Line3,10,61098
+Saad Zaghloul,Line1,10,60989
+Sadat,Transfer_Line1/Line2,10,60856
+Abbassia,Line3,10,60154
+Koleyet El Banat,Line3,10,6472
+Ring Road,Line3,10,6435
+El Marg,Line1,10,6168
+Dar El Salam,Line1,10,5941
+Hadayek El Maadi,Line1,10,5939
+Mar Girgis,Line1,10,5936
+Hadayek Helwan,Line1,10,5902
+Hesham Barakat,Line3,10,5783
+Omar Ibn El Khattab,Line3,10,5774
+Al Ahram,Line3,10,5773
+Ezbet El Nakhl,Line1,10,5762
+El Matareyya,Line1,10,5742
+El Geish,Line3,10,5634
+El Maasara,Line1,10,5591
+Nadi El Shams,Line3,10,5577
+Omm El Masryeen,Line2,10,5546
+Masarra,Line2,10,5532
+Hammamat El Qobba,Line1,10,5493
+Tura El Balad,Line1,10,5488
+Tura El Asmant,Line1,10,5466
+Fair Zone,Line3,10,5391
+El Zahra,Line1,10,5384
+El Bohoos,Line2,10,5351
+Kozzika,Line1,10,5333
+Safaa Hegazy,Line3,10,5332
+Alf Maskan,Line3,10,5278
+Sakanat El Maadi,Line1,10,5247
+El Bohy,Line3,10,5175
+El Haykestep,Line3,10,5165
+El Qawmia,Line3,10,5096
+Hadayek El Zaitoun,Line1,10,5059
+Helwan,Line1,10,5035
+Mohamed Naguib,Line2,10,5030
+Sudan,Line3,10,5028
+Manshiet El Sadr,Line1,10,5026
+St. Teresa,Line2,10,5003
+Saray El Qobba,Line1,10,4918
+New El Marg,Line1,10,4917
+Rod El Farag Corridor,Line3,10,4910
+Kobri El Qobba,Line1,10,4820
+Helmeyet El Zaitoun,Line1,10,4815
+Khalafawy,Line2,10,4811
+Abdou Pasha,Line3,10,4771
+Mezallat,Line2,10,4602
+Haroun,Line3,10,4537
+Wadi Hof,Line1,10,4533
+Qobaa,Line3,10,4404
+Orabi,Line1,10,4293
+Koliet El Zeraa,Line2,10,3979
+Ain Helwan,Line1,10,3804
+Sakiat Mekky,Line2,10,3793
+Nasser,Transfer_Line1/Line3,11,63484
+Helwan University,Line1,11,62437
+El Maadi,Line1,11,61934
+Shubra El Kheima,Line2,11,61605
+Abbassia,Line3,11,61337
+Faisal,Line2,11,60859
+Heliopolis Square,Line3,11,60391
+Ain Shams,Line1,11,60066
+Saad Zaghloul,Line1,11,59973
+Stadium,Line3,11,59678
+Giza,Line2,11,59206
+Maspero,Line3,11,59167
+El Malek El Saleh,Line1,11,59114
+Imbaba,Line3,11,58891
+Road El Farag,Line2,11,58835
+Adly Mansour,Line3,11,58708
+Dokki,Line2,11,58501
+Sadat,Transfer_Line1/Line2,11,57999
+Sayeda Zeinab,Line1,11,57962
+Al Shohadaa,Transfer_Line1/Line2,11,57801
+El Nozha,Line3,11,57552
+Cairo University,Line2,11,57275
+Ghamra,Line1,11,56907
+Opera,Line2,11,56845
+El Mounib,Line2,11,56837
+Kit Kat,Line3,11,56783
+Bab El Shaaria,Line3,11,55655
+Attaba,Transfer_Line2/Line3,11,54562
+El Demerdash,Line1,11,54430
+Sakanat El Maadi,Line1,11,6037
+El Matareyya,Line1,11,5862
+Omar Ibn El Khattab,Line3,11,5804
+Hesham Barakat,Line3,11,5658
+Alf Maskan,Line3,11,5578
+Hadayek El Maadi,Line1,11,5543
+Fair Zone,Line3,11,5423
+Masarra,Line2,11,5412
+Kobri El Qobba,Line1,11,5366
+Al Ahram,Line3,11,5355
+Ring Road,Line3,11,5323
+El Qawmia,Line3,11,5260
+El Bohy,Line3,11,5253
+Safaa Hegazy,Line3,11,5229
+Sakiat Mekky,Line2,11,5207
+Tura El Asmant,Line1,11,5110
+Sudan,Line3,11,5063
+Helmeyet El Zaitoun,Line1,11,5056
+Koliet El Zeraa,Line2,11,5031
+Mohamed Naguib,Line2,11,5025
+Nadi El Shams,Line3,11,4982
+Mar Girgis,Line1,11,4956
+El Bohoos,Line2,11,4947
+Koleyet El Banat,Line3,11,4900
+Khalafawy,Line2,11,4864
+Omm El Masryeen,Line2,11,4856
+Dar El Salam,Line1,11,4854
+Ezbet El Nakhl,Line1,11,4815
+El Zahra,Line1,11,4787
+New El Marg,Line1,11,4758
+St. Teresa,Line2,11,4745
+Orabi,Line1,11,4736
+El Geish,Line3,11,4673
+Haroun,Line3,11,4640
+Hammamat El Qobba,Line1,11,4630
+Ain Helwan,Line1,11,4619
+Saray El Qobba,Line1,11,4612
+Manshiet El Sadr,Line1,11,4600
+Mezallat,Line2,11,4580
+Wadi Hof,Line1,11,4552
+Kozzika,Line1,11,4501
+Hadayek El Zaitoun,Line1,11,4500
+El Marg,Line1,11,4405
+Rod El Farag Corridor,Line3,11,4349
+Qobaa,Line3,11,4348
+Tura El Balad,Line1,11,4186
+El Haykestep,Line3,11,4181
+Hadayek Helwan,Line1,11,3987
+El Maasara,Line1,11,3977
+Abdou Pasha,Line3,11,3933
+Helwan,Line1,11,3624
+Dokki,Line2,12,66404
+Abbassia,Line3,12,65477
+Opera,Line2,12,65288
+El Malek El Saleh,Line1,12,64766
+Road El Farag,Line2,12,64304
+Kit Kat,Line3,12,63741
+Bab El Shaaria,Line3,12,63582
+Adly Mansour,Line3,12,63354
+Giza,Line2,12,63204
+Sadat,Transfer_Line1/Line2,12,63179
+Heliopolis Square,Line3,12,62701
+El Maadi,Line1,12,62564
+Ain Shams,Line1,12,62558
+Ghamra,Line1,12,62301
+Stadium,Line3,12,62294
+Saad Zaghloul,Line1,12,62072
+Shubra El Kheima,Line2,12,61943
+Cairo University,Line2,12,61850
+Sayeda Zeinab,Line1,12,61435
+El Mounib,Line2,12,61234
+Nasser,Transfer_Line1/Line3,12,61169
+Attaba,Transfer_Line2/Line3,12,61164
+Al Shohadaa,Transfer_Line1/Line2,12,61139
+Helwan University,Line1,12,61097
+Faisal,Line2,12,60582
+Maspero,Line3,12,60492
+El Demerdash,Line1,12,60488
+Imbaba,Line3,12,60291
+El Nozha,Line3,12,56633
+Helwan,Line1,12,6508
+Ezbet El Nakhl,Line1,12,6285
+Manshiet El Sadr,Line1,12,6266
+El Qawmia,Line3,12,6118
+Hadayek El Zaitoun,Line1,12,6109
+El Bohy,Line3,12,5875
+Sudan,Line3,12,5869
+El Geish,Line3,12,5818
+Masarra,Line2,12,5773
+Mohamed Naguib,Line2,12,5757
+Orabi,Line1,12,5756
+Kobri El Qobba,Line1,12,5731
+El Marg,Line1,12,5682
+Nadi El Shams,Line3,12,5682
+Hadayek Helwan,Line1,12,5633
+Omm El Masryeen,Line2,12,5591
+Abdou Pasha,Line3,12,5536
+Haroun,Line3,12,5507
+Sakiat Mekky,Line2,12,5480
+Fair Zone,Line3,12,5467
+El Matareyya,Line1,12,5465
+Qobaa,Line3,12,5462
+Wadi Hof,Line1,12,5456
+Kozzika,Line1,12,5453
+Hammamat El Qobba,Line1,12,5440
+Tura El Asmant,Line1,12,5380
+Dar El Salam,Line1,12,5365
+Helmeyet El Zaitoun,Line1,12,5343
+Koleyet El Banat,Line3,12,5341
+Saray El Qobba,Line1,12,5230
+Ain Helwan,Line1,12,5069
+Koliet El Zeraa,Line2,12,5053
+Mezallat,Line2,12,5051
+Alf Maskan,Line3,12,5021
+Tura El Balad,Line1,12,5007
+El Zahra,Line1,12,4988
+El Maasara,Line1,12,4921
+Al Ahram,Line3,12,4911
+New El Marg,Line1,12,4790
+Safaa Hegazy,Line3,12,4779
+St. Teresa,Line2,12,4724
+Khalafawy,Line2,12,4711
+Rod El Farag Corridor,Line3,12,4621
+Hadayek El Maadi,Line1,12,4558
+Sakanat El Maadi,Line1,12,4551
+El Bohoos,Line2,12,4493
+El Haykestep,Line3,12,4457
+Ring Road,Line3,12,4412
+Hesham Barakat,Line3,12,4343
+Omar Ibn El Khattab,Line3,12,4307
+Mar Girgis,Line1,12,4295

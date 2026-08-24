@@ -1,0 +1,201 @@
+﻿origin_station_id,destination_station_id,total_trips,total_passengers,total_revenue_egp,origin_station_name,origin_line_id,destination_station_name,destination_line_id
+77,2,385,9369,125174,Sadat,Transfer_Line1/Line2,Ain Helwan,Line1
+72,47,381,10174,132450,Imbaba,Line3,Mezallat,Line2
+41,62,380,10089,132198,Opera,Line2,Stadium,Line3
+70,34,379,9967,134248,Kit Kat,Line3,Sakiat Mekky,Line2
+3,36,377,9723,125129,Helwan University,Line1,Giza,Line2
+50,48,377,9723,126999,Adly Mansour,Line3,Koliet El Zeraa,Line2
+77,52,377,10435,139332,Sadat,Transfer_Line1/Line2,Omar Ibn El Khattab,Line3
+58,21,375,8465,110743,Heliopolis Square,Line3,El Demerdash,Line1
+80,13,375,10124,133449,Nasser,Transfer_Line1/Line3,Dar El Salam,Line1
+18,35,374,9806,128875,Saad Zaghloul,Line1,Omm El Masryeen,Line2
+40,1,373,9067,118539,Dokki,Line2,Helwan,Line1
+40,51,373,9673,123336,Dokki,Line2,El Haykestep,Line3
+64,58,373,9317,74536,Abbassia,Line3,Heliopolis Square,Line3
+80,21,373,10340,137854,Nasser,Transfer_Line1/Line3,El Demerdash,Line1
+3,4,372,8857,70856,Helwan University,Line1,Wadi Hof,Line1
+40,55,372,9642,130766,Dokki,Line2,El Nozha,Line3
+37,18,371,9999,128560,Faisal,Line2,Saad Zaghloul,Line1
+49,76,371,10586,138903,Shubra El Kheima,Line2,Rod El Farag Corridor,Line3
+50,23,371,10369,140060,Adly Mansour,Line3,Kobri El Qobba,Line1
+64,6,371,9724,127409,Abbassia,Line3,El Maasara,Line1
+79,65,370,9424,124323,Attaba,Transfer_Line2/Line3,Abdou Pasha,Line3
+11,68,369,10046,134590,El Maadi,Line1,Maspero,Line3
+37,46,369,9076,72608,Faisal,Line2,Khalafawy,Line2
+40,7,369,9307,122377,Dokki,Line2,Tura El Asmant,Line1
+55,77,369,9502,127906,El Nozha,Line3,Sadat,Transfer_Line1/Line2
+67,32,369,9509,123787,Bab El Shaaria,Line3,New El Marg,Line1
+78,27,369,10328,142034,Al Shohadaa,Transfer_Line1/Line2,Helmeyet El Zaitoun,Line1
+21,63,368,9959,134891,El Demerdash,Line1,Fair Zone,Line3
+33,46,368,9546,114552,El Mounib,Line2,Khalafawy,Line2
+33,63,368,9967,134639,El Mounib,Line2,Fair Zone,Line3
+38,20,368,9478,125697,Cairo University,Line2,Ghamra,Line1
+64,77,368,9789,127926,Abbassia,Line3,Sadat,Transfer_Line1/Line2
+70,33,368,9907,132699,Kit Kat,Line3,El Mounib,Line2
+70,76,368,10197,81576,Kit Kat,Line3,Rod El Farag Corridor,Line3
+72,68,368,9492,75936,Imbaba,Line3,Maspero,Line3
+33,70,367,10286,140608,El Mounib,Line2,Kit Kat,Line3
+40,21,367,9538,128912,Dokki,Line2,El Demerdash,Line1
+62,73,367,9469,113628,Stadium,Line3,El Bohy,Line3
+3,68,366,8813,116027,Helwan University,Line1,Maspero,Line3
+20,2,366,9493,142395,Ghamra,Line1,Ain Helwan,Line1
+40,63,366,9444,122010,Dokki,Line2,Fair Zone,Line3
+77,38,366,9918,131149,Sadat,Transfer_Line1/Line2,Cairo University,Line2
+11,25,365,9336,112032,El Maadi,Line1,Saray El Qobba,Line1
+21,42,365,8871,114581,El Demerdash,Line1,Mohamed Naguib,Line2
+36,80,365,9660,125855,Giza,Line2,Nasser,Transfer_Line1/Line3
+44,33,365,9403,112836,Road El Farag,Line2,El Mounib,Line2
+49,80,365,8946,117288,Shubra El Kheima,Line2,Nasser,Transfer_Line1/Line3
+50,68,365,8893,133395,Adly Mansour,Line3,Maspero,Line3
+55,35,365,8748,116052,El Nozha,Line3,Omm El Masryeen,Line2
+58,2,365,9010,117186,Heliopolis Square,Line3,Ain Helwan,Line1
+64,69,365,11279,90232,Abbassia,Line3,Safaa Hegazy,Line3
+72,67,365,9647,77176,Imbaba,Line3,Bab El Shaaria,Line3
+79,70,365,10074,135889,Attaba,Transfer_Line2/Line3,Kit Kat,Line3
+80,77,365,9896,132718,Nasser,Transfer_Line1/Line3,Sadat,Transfer_Line1/Line2
+11,9,364,9491,75928,El Maadi,Line1,Tura El Balad,Line1
+11,62,364,10082,133999,El Maadi,Line1,Stadium,Line3
+21,23,364,9349,74792,El Demerdash,Line1,Kobri El Qobba,Line1
+37,56,364,8724,113562,Faisal,Line2,Nadi El Shams,Line3
+49,16,364,10086,132714,Shubra El Kheima,Line2,El Malek El Saleh,Line1
+49,46,364,10221,81768,Shubra El Kheima,Line2,Khalafawy,Line2
+62,21,364,8192,108636,Stadium,Line3,El Demerdash,Line1
+62,74,364,8292,99504,Stadium,Line3,El Qawmia,Line3
+11,58,363,10059,131173,El Maadi,Line1,Heliopolis Square,Line3
+18,33,363,8729,115434,Saad Zaghloul,Line1,El Mounib,Line2
+18,80,363,9300,122969,Saad Zaghloul,Line1,Nasser,Transfer_Line1/Line3
+64,25,363,10364,135976,Abbassia,Line3,Saray El Qobba,Line1
+68,23,363,9637,127910,Maspero,Line3,Kobri El Qobba,Line1
+68,75,363,10083,80664,Maspero,Line3,Ring Road,Line3
+70,74,363,10421,83368,Kit Kat,Line3,El Qawmia,Line3
+78,62,363,9432,122252,Al Shohadaa,Transfer_Line1/Line2,Stadium,Line3
+79,39,363,9160,120584,Attaba,Transfer_Line2/Line3,El Bohoos,Line2
+80,54,363,9390,125812,Nasser,Transfer_Line1/Line3,Hesham Barakat,Line3
+16,45,362,9400,122214,El Malek El Saleh,Line1,St. Teresa,Line2
+17,16,362,9499,75992,Sayeda Zeinab,Line1,El Malek El Saleh,Line1
+21,51,362,8866,115390,El Demerdash,Line1,El Haykestep,Line3
+37,50,362,9511,126202,Faisal,Line2,Adly Mansour,Line3
+41,80,362,9506,122634,Opera,Line2,Nasser,Transfer_Line1/Line3
+62,13,362,8432,110620,Stadium,Line3,Dar El Salam,Line1
+67,40,362,9570,127516,Bab El Shaaria,Line3,Dokki,Line2
+68,7,362,9217,121481,Maspero,Line3,Tura El Asmant,Line1
+72,21,362,9074,121761,Imbaba,Line3,El Demerdash,Line1
+78,50,362,9772,128120,Al Shohadaa,Transfer_Line1/Line2,Adly Mansour,Line3
+3,34,361,9454,129917,Helwan University,Line1,Sakiat Mekky,Line2
+11,64,361,9053,121550,El Maadi,Line1,Abbassia,Line3
+17,5,361,9613,115356,Sayeda Zeinab,Line1,Hadayek Helwan,Line1
+38,55,361,9784,130510,Cairo University,Line2,El Nozha,Line3
+41,59,361,9658,125822,Opera,Line2,Haroun,Line3
+55,64,361,9781,78248,El Nozha,Line3,Abbassia,Line3
+62,60,361,8723,69784,Stadium,Line3,Al Ahram,Line3
+67,27,361,8887,120062,Bab El Shaaria,Line3,Helmeyet El Zaitoun,Line1
+77,7,361,9939,129372,Sadat,Transfer_Line1/Line2,Tura El Asmant,Line1
+11,19,360,9534,76272,El Maadi,Line1,Orabi,Line1
+18,52,360,9255,119501,Saad Zaghloul,Line1,Omar Ibn El Khattab,Line3
+18,62,360,8900,116547,Saad Zaghloul,Line1,Stadium,Line3
+21,47,360,9389,122467,El Demerdash,Line1,Mezallat,Line2
+29,77,360,9434,124929,Ain Shams,Line1,Sadat,Transfer_Line1/Line2
+44,32,360,9025,118405,Road El Farag,Line2,New El Marg,Line1
+44,46,360,7989,63912,Road El Farag,Line2,Khalafawy,Line2
+55,25,360,9226,124575,El Nozha,Line3,Saray El Qobba,Line1
+79,4,360,9777,130120,Attaba,Transfer_Line2/Line3,Wadi Hof,Line1
+79,11,360,9292,123881,Attaba,Transfer_Line2/Line3,El Maadi,Line1
+3,35,359,8802,116689,Helwan University,Line1,Omm El Masryeen,Line2
+3,37,359,8439,110847,Helwan University,Line1,Faisal,Line2
+3,77,359,9277,120461,Helwan University,Line1,Sadat,Transfer_Line1/Line2
+17,27,359,8129,97548,Sayeda Zeinab,Line1,Helmeyet El Zaitoun,Line1
+33,17,359,9959,137147,El Mounib,Line2,Sayeda Zeinab,Line1
+38,56,359,9532,124212,Cairo University,Line2,Nadi El Shams,Line3
+40,58,359,9608,127863,Dokki,Line2,Heliopolis Square,Line3
+44,7,359,9403,123269,Road El Farag,Line2,Tura El Asmant,Line1
+49,3,359,8342,113719,Shubra El Kheima,Line2,Helwan University,Line1
+58,18,359,9205,121889,Heliopolis Square,Line3,Saad Zaghloul,Line1
+70,50,359,9293,139395,Kit Kat,Line3,Adly Mansour,Line3
+70,61,359,9177,73416,Kit Kat,Line3,Koleyet El Banat,Line3
+72,41,359,9651,133102,Imbaba,Line3,Opera,Line2
+78,63,359,9343,123444,Al Shohadaa,Transfer_Line1/Line2,Fair Zone,Line3
+3,41,358,9184,123085,Helwan University,Line1,Opera,Line2
+11,38,358,8789,116952,El Maadi,Line1,Cairo University,Line2
+16,1,358,8659,103908,El Malek El Saleh,Line1,Helwan,Line1
+18,13,358,9176,73408,Saad Zaghloul,Line1,Dar El Salam,Line1
+20,25,358,9463,75704,Ghamra,Line1,Saray El Qobba,Line1
+20,42,358,8628,111716,Ghamra,Line1,Mohamed Naguib,Line2
+21,2,358,9345,140175,El Demerdash,Line1,Ain Helwan,Line1
+33,75,358,9771,130020,El Mounib,Line2,Ring Road,Line3
+33,77,358,9371,122442,El Mounib,Line2,Sadat,Transfer_Line1/Line2
+36,54,358,9132,120246,Giza,Line2,Hesham Barakat,Line3
+37,52,358,9582,126962,Faisal,Line2,Omar Ibn El Khattab,Line3
+41,5,358,8771,115310,Opera,Line2,Hadayek Helwan,Line1
+55,23,358,8833,119011,El Nozha,Line3,Kobri El Qobba,Line1
+58,30,358,9470,124849,Heliopolis Square,Line3,Ezbet El Nakhl,Line1
+67,55,358,9563,114756,Bab El Shaaria,Line3,El Nozha,Line3
+68,1,358,9957,129917,Maspero,Line3,Helwan,Line1
+70,27,358,10026,133896,Kit Kat,Line3,Helmeyet El Zaitoun,Line1
+72,35,358,9375,124243,Imbaba,Line3,Omm El Masryeen,Line2
+20,80,357,8876,115941,Ghamra,Line1,Nasser,Transfer_Line1/Line3
+29,12,357,9251,138765,Ain Shams,Line1,Hadayek El Maadi,Line1
+33,62,357,9933,129039,El Mounib,Line2,Stadium,Line3
+33,74,357,8847,119021,El Mounib,Line2,El Qawmia,Line3
+36,8,357,9042,116771,Giza,Line2,Kozzika,Line1
+37,29,357,9460,126902,Faisal,Line2,Ain Shams,Line1
+41,77,357,9474,126070,Opera,Line2,Sadat,Transfer_Line1/Line2
+49,64,357,9551,124909,Shubra El Kheima,Line2,Abbassia,Line3
+62,52,357,9654,115848,Stadium,Line3,Omar Ibn El Khattab,Line3
+68,52,357,8666,103992,Maspero,Line3,Omar Ibn El Khattab,Line3
+70,64,357,9188,73504,Kit Kat,Line3,Abbassia,Line3
+16,71,356,9818,130300,El Malek El Saleh,Line1,Sudan,Line3
+29,21,356,9487,75896,Ain Shams,Line1,El Demerdash,Line1
+29,24,356,9328,74624,Ain Shams,Line1,Hammamat El Qobba,Line1
+40,15,356,8986,119909,Dokki,Line2,Mar Girgis,Line1
+40,47,356,9871,78968,Dokki,Line2,Mezallat,Line2
+40,72,356,9569,123601,Dokki,Line2,Imbaba,Line3
+40,73,356,9423,123332,Dokki,Line2,El Bohy,Line3
+41,33,356,9193,73544,Opera,Line2,El Mounib,Line2
+44,26,356,9613,124769,Road El Farag,Line2,Hadayek El Zaitoun,Line1
+50,34,356,8463,110940,Adly Mansour,Line3,Sakiat Mekky,Line2
+55,2,356,8848,118405,El Nozha,Line3,Ain Helwan,Line1
+64,7,356,8643,115612,Abbassia,Line3,Tura El Asmant,Line1
+67,25,356,9243,121582,Bab El Shaaria,Line3,Saray El Qobba,Line1
+67,60,356,9929,79432,Bab El Shaaria,Line3,Al Ahram,Line3
+68,49,356,9611,126560,Maspero,Line3,Shubra El Kheima,Line2
+77,11,356,8690,114958,Sadat,Transfer_Line1/Line2,El Maadi,Line1
+79,37,356,8128,108542,Attaba,Transfer_Line2/Line3,Faisal,Line2
+80,70,356,8950,118655,Nasser,Transfer_Line1/Line3,Kit Kat,Line3
+3,26,355,9476,142140,Helwan University,Line1,Hadayek El Zaitoun,Line1
+17,1,355,8665,103980,Sayeda Zeinab,Line1,Helwan,Line1
+18,26,355,8889,71112,Saad Zaghloul,Line1,Hadayek El Zaitoun,Line1
+18,31,355,9517,114204,Saad Zaghloul,Line1,El Marg,Line1
+21,50,355,8939,114159,El Demerdash,Line1,Adly Mansour,Line3
+33,78,355,8873,117442,El Mounib,Line2,Al Shohadaa,Transfer_Line1/Line2
+36,40,355,9248,73984,Giza,Line2,Dokki,Line2
+41,31,355,9425,122438,Opera,Line2,El Marg,Line1
+58,19,355,9538,124232,Heliopolis Square,Line3,Orabi,Line1
+62,19,355,9246,120805,Stadium,Line3,Orabi,Line1
+62,29,355,9438,126121,Stadium,Line3,Ain Shams,Line1
+62,48,355,9424,122594,Stadium,Line3,Koliet El Zeraa,Line2
+77,58,355,9060,118818,Sadat,Transfer_Line1/Line2,Heliopolis Square,Line3
+78,15,355,9706,124815,Al Shohadaa,Transfer_Line1/Line2,Mar Girgis,Line1
+79,35,355,8648,113827,Attaba,Transfer_Line2/Line3,Omm El Masryeen,Line2
+80,19,355,9468,129175,Nasser,Transfer_Line1/Line3,Orabi,Line1
+3,70,354,8461,109445,Helwan University,Line1,Kit Kat,Line3
+17,46,354,8961,121309,Sayeda Zeinab,Line1,Khalafawy,Line2
+20,10,354,9423,113076,Ghamra,Line1,Sakanat El Maadi,Line1
+29,11,354,9144,137160,Ain Shams,Line1,El Maadi,Line1
+29,15,354,9308,111696,Ain Shams,Line1,Mar Girgis,Line1
+33,19,354,10247,135951,El Mounib,Line2,Orabi,Line1
+33,45,354,9150,109800,El Mounib,Line2,St. Teresa,Line2
+36,70,354,9396,124884,Giza,Line2,Kit Kat,Line3
+40,60,354,9806,133581,Dokki,Line2,Al Ahram,Line3
+44,38,354,9503,76024,Road El Farag,Line2,Cairo University,Line2
+50,14,354,9655,128425,Adly Mansour,Line3,El Zahra,Line1
+58,8,354,9180,120781,Heliopolis Square,Line3,Kozzika,Line1
+58,67,354,9534,76272,Heliopolis Square,Line3,Bab El Shaaria,Line3
+64,63,354,10542,84336,Abbassia,Line3,Fair Zone,Line3
+68,67,354,9127,73016,Maspero,Line3,Bab El Shaaria,Line3
+80,44,354,9110,121276,Nasser,Transfer_Line1/Line3,Road El Farag,Line2
+16,2,353,9348,112176,El Malek El Saleh,Line1,Ain Helwan,Line1
+44,4,353,9154,120605,Road El Farag,Line2,Wadi Hof,Line1
+44,9,353,8068,107642,Road El Farag,Line2,Tura El Balad,Line1
+44,65,353,8606,112877,Road El Farag,Line2,Abdou Pasha,Line3
+49,48,353,9076,72608,Shubra El Kheima,Line2,Koliet El Zeraa,Line2
+50,2,353,9107,119272,Adly Mansour,Line3,Ain Helwan,Line1
